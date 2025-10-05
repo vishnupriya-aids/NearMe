@@ -46,6 +46,8 @@ loyal.html
 </head>
 <body>
 <img src="loyola.jpg">  
+<p>Loyola College, Chennai is a prestigious autonomous arts and science college founded in 1925 by the Jesuits, located in Nungambakkam, Chennai. Though affiliated with the University of Madras, it has had autonomy since 1978, allowing it to frame its own curriculum and evaluation system. The college offers a wide array of undergraduate, postgraduate, M.Phil., and Ph.D. programs in disciplines spanning arts, science, and commerce, and is known for strong research credentials—being recognized as a Scientific & Industrial Research Organization (SIRO) by the Government of India. It is also blessed with excellent facilities: a large, well-stocked library, separate hostels for men and women, extensive infrastructure for labs and extracurriculars, and support services for differently-abled students. Loyola is consistently highly ranked among colleges in India, has NAAC accreditation, and is notable for combining rigorous academics with strong values of social service, outreach, and holistic development of students.</p>
+
 </body>
 </html>
 
@@ -59,6 +61,8 @@ queensland.html
 </head>
 <body>
 <img src="queensland.jpg">
+<p>Queensland is the second-largest state in Australia, located in the northeastern part of the country. Its capital city, Brisbane, is a major urban center known for its lifestyle, economy, and education. The state is famous for its natural wonders, including the Great Barrier Reef, the Whitsunday Islands, and the Daintree Rainforest. It has a tropical and subtropical climate, earning it the nickname "The Sunshine State." Queensland’s landscape ranges from beautiful beaches and coastal areas to mountains and dry inland plains. Tourism plays a major role in its economy, along with agriculture, mining, and energy exports. The state is a popular destination for both domestic and international travelers. It also has a rich Indigenous heritage and a growing multicultural population. Queensland offers a relaxed lifestyle with a mix of urban and natural attractions. Its natural beauty and economic opportunities make it a unique and vibrant part of Australia.</p>
+
 </body>
 </html>
 
@@ -72,6 +76,10 @@ smc.html
 </head>
 <body>
     <img src="smc.jpg">
+        <p>Saveetha Medical College and Hospital (SMCH), located in Thandalam, Chennai, is a premier private medical institution under the aegis of the Saveetha Institute of Medical and Technical Sciences (SIMATS), a deemed university. Established in 2008, the college has quickly gained recognition for its academic excellence, world-class infrastructure, and focus on research and clinical training. Accredited by the National Medical Commission (NMC), SMCH offers undergraduate (MBBS), postgraduate (MD/MS), and super-specialty (DM/M.Ch) courses across a wide range of medical disciplines.
+
+The college is known for its cutting-edge hospital facilities, boasting over 1,200 beds and advanced diagnostic and treatment equipment, including MRI, CT scans, digital radiology, and a dedicated ICU and PICU. SMCH emphasizes experiential learning, with students receiving extensive hands-on clinical exposure through a high patient inflow. The institution has also been at the forefront of innovation in medical education, implementing small-group learning, integrated teaching, and simulation-based training.</p>
+
 </body>
 </html>
 ```
